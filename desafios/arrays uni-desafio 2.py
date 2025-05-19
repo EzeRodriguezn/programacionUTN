@@ -14,22 +14,26 @@ Permitir que los usuarios ingresen sus listas manualmente.
 Ampliar el programa para comparar más de dos usuarios.
 """
 
-lista_usuario1 = ["campera", "remera", "zapatillas", "bufanda"]
-
-lista_usuario2 = ["pantalon", "gorra", "campera", "buzo", "bufanda"]
 
 
-productos_en_comun = []
-
-#queremos llenar productos_en_comun con los productos que se repiten en ambas listas,
-for i in range(len(lista_usuario1)):
-    productos_en_comun = lista_usuario1[i]
-    print(f"producto: {productos_en_comun}")
 
 
-    for j in range(len(lista_usuario2)):
-        if lista_usuario1[i] == lista_usuario2[j]:
-            productos_en_comun = lista_usuario1 + [lista_usuario2[j]]
-            print(f"productoPrueba: {productos_en_comun}")
 
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
