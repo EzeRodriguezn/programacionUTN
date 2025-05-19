@@ -13,7 +13,8 @@ Una tienda online quiere mejorar su sistema de recomendaciones analizando el com
 Permitir que los usuarios ingresen sus listas manualmente.
 Ampliar el programa para comparar más de dos usuarios.
 """
-
+lista_usuario1 = ["remera","buzo","pantalon","zapatillas","medias"]
+lista_usuario2 = ["campera","buzo","gorra","zapatillas"]
 
 
 
